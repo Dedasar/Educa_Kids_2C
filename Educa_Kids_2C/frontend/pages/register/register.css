@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "poppins" , sans-serif;
+}
+
+body {
+    background-color: #020b8a;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+button{
+    margin: 10px;
+    background: #0098d6;
+    margin-top: 5px;
+}
+
+
